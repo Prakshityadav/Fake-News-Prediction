@@ -142,7 +142,8 @@ NLP research resources
 
 📢 Note
 
-This project is developed for educational purposes and demonstrates the application of Machine Learning and NLP techniques to solve real-world problems.
+This project is developed for educational purposes and demonstrates the application of Machine Learning
+ and NLP techniques to solve real-world problems.
 
 
 💾 **Save the file and close the editor**
