@@ -98,7 +98,7 @@ jupyter notebook
 
 Open the notebook file and run all cells sequentially.
 
-##🧪 Sample Prediction
+🧪 Sample Prediction
 
 The system allows users to test custom news text and predicts whether the news is:
 
@@ -108,14 +108,15 @@ Fake News
 
 This demonstrates the real-world applicability of the model.
 
-## 📌 Project Structure
+📌 Project Structure
 Fake-News-Prediction/
 │
 ├── Fake-News-Detection.ipynb
 ├── fake.csv
 ├── true.csv
 ├── README.md
-## 🚀 Future Enhancements
+
+🚀 Future Enhancements
 
 Implement advanced models such as LSTM or BERT
 
@@ -125,13 +126,13 @@ Add real-time news scraping
 
 Improve accuracy through hyperparameter tuning
 
-## 👨‍💻 Author
+ 👨‍💻 Author
 
 Prakshit Yadav
 B.Tech Computer Science Engineering Student
 Passionate about Machine Learning, Data Science, and Software Development
 
-## ⭐ Acknowledgements
+⭐ Acknowledgements
 
 Scikit-learn Documentation
 
@@ -139,7 +140,7 @@ Kaggle Datasets
 
 NLP research resources
 
-## 📢 Note
+📢 Note
 
 This project is developed for educational purposes and demonstrates the application of Machine Learning and NLP techniques to solve real-world problems.
 
